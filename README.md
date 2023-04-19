@@ -68,8 +68,8 @@ Atuando como prestadora de serviços, uma organização produz
 saídas que ajudam seus consumidores a alcançar certos
 resultados.
  
-   - Saída: Uma entrega tangível ou intangível de uma atividade.
-   - Resultado: Um resultado para uma parte interessada habilitada por uma ou mais saídas.
+   ***Saída: Uma entrega tangível ou intangível de uma atividade.
+   ***Resultado: Um resultado para uma parte interessada habilitada por uma ou mais saídas.
 
 
 * Custos
