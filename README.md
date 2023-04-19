@@ -63,8 +63,16 @@ valor. Exemplos:
 # Custos
 
 Definição de Custo: A quantia de dinheiro gasto em uma atividade ou recurso específico.
-
 Do ponto de vista do consumidor de serviços, existem dois tipos de custos envolvidos nas relações de serviços: 
 
    - Custos removidos do consumidor pelo serviço (retirado, subtráido, removido, etc)
    - Custos adicionados ao consumidor pelo serviço (custos impostos, adicionados, incluidos, etc)
+
+# Riscos
+
+Definição: Um possível evento que pode causar danos ou perdas, ou dificultar o alcance dos objetivos.
+Assim como os custos, existem dois tipos de riscos preocupantes para atender consumidores:
+
+   - Riscos removidos do consumidor pelo serviço.
+   - Riscos adicionados ao consumidor pelo serviço.
+
