@@ -59,3 +59,13 @@ valor. Exemplos:
   - Governos e Órgãos Reguladores
   - Sociedade
   - Acionistas
+
+# Custos
+
+Definição de Custo: A quantia de dinheiro gasto em uma atividade ou recurso específico.
+
+Do ponto de vista do consumidor de serviços, existem dois tipos de custos envolvidos nas relações de serviços: 
+
+   - Custos removidos do consumidor pelo serviço.
+
+   - Custos adicionados ao consumidor pelo serviço.
