@@ -1,8 +1,6 @@
 # ITIL 4
 # Certificação ITIL - Principais Tópicos de Estudo
 
-* Dicionário: 
-- Co-Criação = Criar Junto
 
 * Gerenciamento de Serviços
 Definição: É um conjunto de recursos organizacionais especializados para habilitar valor para clientes na forma de serviços.
@@ -30,24 +28,22 @@ como "o que o serviço faz“.
 * O que é Garantia? (Conceito de Garantia)
 Garantia de que um produto ou serviço atenderá aos requisitos acordados. A garantia pode ser resumida como: "o desempenho do serviço“.
 
-Organização (Definição)
+*Organização (Definição)
 Uma pessoa ou um grupo de pessoas que possui funções próprias com
 responsabilidades, autoridades e relacionamentos para atingir seus objetivos.
 
-Provedores de Serviço (Definição)
+*Provedores de Serviço (Definição)
 Ao provisionar serviços, uma organização assume o papel do provedor de serviços (Prestadores de Serviços). O provedor pode ser "interno" ou "externo" à organização do consumidor ou ambos podem fazer parte da mesma organização.
 
-Consumidores de Serviço (Definição)
+*Consumidores de Serviço (Definição)
 Consumidor de serviço é uma função genérica que é usada para
 simplificar a definição e a descrição da estrutura de relacionamentos de serviço. Essas funções podem ser separadas ou combinadas:
 
-# Patrocinador: Uma pessoa que autoriza o orçamento para
+   - Patrocinador: Uma pessoa que autoriza o orçamento para
 consumo de serviço.
-
-# Cliente: Uma pessoa que define os requisitos para um serviço e
+   - Cliente: Uma pessoa que define os requisitos para um serviço e
 assume a responsabilidade pelos resultados do consumo do
 serviço.
-
-# Usuário: Uma pessoa que usa os serviços
+   - Usuário: Uma pessoa que usa os serviços
 
 
