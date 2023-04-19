@@ -60,19 +60,42 @@ valor. Exemplos:
   - Sociedade
   - Acionistas
 
-# Custos
+# Valor: Resultados, custos e riscos
 
-Definição de Custo: A quantia de dinheiro gasto em uma atividade ou recurso específico.
+* Resultados
+
+Atuando como prestadora de serviços, uma organização produz
+saídas que ajudam seus consumidores a alcançar certos
+resultados.
+ 
+   - Saída: Uma entrega tangível ou intangível de uma atividade.
+   - Resultado: Um resultado para uma parte interessada habilitada por uma ou mais saídas.
+
+
+* Custos
+
+A quantia de dinheiro gasto em uma atividade ou recurso específico.
+
 Do ponto de vista do consumidor de serviços, existem dois tipos de custos envolvidos nas relações de serviços: 
 
-   - Custos removidos do consumidor pelo serviço (retirado, subtráido, removido, etc)
-   - Custos adicionados ao consumidor pelo serviço (custos impostos, adicionados, incluidos, etc)
+   - Custos removidos do consumidor pelo serviço.
+   - Custos adicionados ao consumidor pelo serviço.
 
-# Riscos
+* Riscos
 
 Definição: Um possível evento que pode causar danos ou perdas, ou dificultar o alcance dos objetivos.
+
 Assim como os custos, existem dois tipos de riscos preocupantes para atender consumidores:
 
    - Riscos removidos do consumidor pelo serviço.
    - Riscos adicionados ao consumidor pelo serviço.
+
+* Princípios fundamentais dos relacionamentos de serviço
+
+Ofertas de serviço
+
+Descrição de um ou mais serviços, projetados para atender às
+necessidades de um grupo de consumidores-alvo. Uma oferta de serviço pode incluir mercadorias, acesso a recursos e ações de serviço.
+
+
 
