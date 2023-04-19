@@ -67,5 +67,4 @@ Definição de Custo: A quantia de dinheiro gasto em uma atividade ou recurso es
 Do ponto de vista do consumidor de serviços, existem dois tipos de custos envolvidos nas relações de serviços: 
 
    - Custos removidos do consumidor pelo serviço (retirado, subtráido, removido, etc)
-
    - Custos adicionados ao consumidor pelo serviço (custos impostos, adicionados, incluidos, etc)
