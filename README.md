@@ -35,7 +35,8 @@ responsabilidades, autoridades e relacionamentos para atingir seus objetivos.
 * Provedores de Serviço (Definição)
 Ao provisionar serviços, uma organização assume o papel do provedor de serviços (Prestadores de Serviços). O provedor pode ser "interno" ou "externo" à organização do consumidor ou ambos podem fazer parte da mesma organização.
 
-* Consumidores de Serviço (Definição)
+# Consumidores de Serviço (Definição)
+
 Consumidor de serviço é uma função genérica que é usada para
 simplificar a definição e a descrição da estrutura de relacionamentos de serviço. Essas funções podem ser separadas ou combinadas:
 
