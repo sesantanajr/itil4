@@ -58,12 +58,12 @@ Além das funções de consumidor e provedor, geralmente há muitas outras parte
 valor. Exemplos:
 
 ```
-Consumidores de Serviço
-Provedores de Serviço
-Funcionários do provedor de serviços
-Governos e Órgãos Reguladores
-Sociedade
-Acionistas
+  1 - Consumidores de Serviço
+  2 - Provedores de Serviço
+  3 - Funcionários do provedor de serviços
+  4 - Governos e Órgãos Reguladores
+  5 - Sociedade
+  6 - Acionistas
 ```
 
 # Valor: Resultados, custos e riscos
