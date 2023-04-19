@@ -46,8 +46,8 @@ simplificar a definição e a descrição da estrutura de relacionamentos de ser
 
 ```
    * Patrocinador: Uma pessoa que autoriza o orçamento para consumo de serviço.
-   * Cliente: Uma pessoa que define os requisitos para um serviço e assume a responsabilidade pelos resultados do consumo do
-serviço.
+   * Cliente: Uma pessoa que define os requisitos para um serviço e assume a responsabilidade pelos 
+   resultados do consumo do serviço.
    * Usuário: Uma pessoa que usa os serviços
 ```
 
@@ -104,8 +104,11 @@ Assim como os custos, existem dois tipos de riscos preocupantes para atender con
 
 ## Ofertas de serviço
 
-Descrição de um ou mais serviços, projetados para atender às
-necessidades de um grupo de consumidores-alvo. Uma oferta de serviço pode incluir mercadorias, acesso a recursos e ações de serviço.
+Descrição de um ou mais serviços, projetados para atender às necessidades de um grupo de consumidores-alvo. Uma oferta de serviço pode incluir mercadorias, acesso a recursos e ações de serviço. Isso pode incluir:
 
-
+```
+   * Mercadorias ou Bens
+   * Acesso a Recursos
+   * Ações de Serviço
+```
 
