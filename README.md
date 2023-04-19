@@ -9,7 +9,7 @@ Definição: É um conjunto de recursos organizacionais especializados para habi
 A natureza do valor. <br>
 A natureza e o escopo das partes interessadas envolvidas.<br>
 Como a criação de valor é ativada por meio de serviços.<br>
-<div>
+</div>
 
 
 ### O que é um Serviço? (Definição de Serviço)
