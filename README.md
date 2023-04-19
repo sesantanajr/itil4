@@ -5,9 +5,9 @@
 ## Gerenciamento de Serviços
 Definição: É um conjunto de recursos organizacionais especializados para habilitar valor para clientes na forma de serviços.
 
-<border>``` A natureza do valor.```<br>
+<style: border 1px solid red``` A natureza do valor.```<br>
 ```A natureza e o escopo das partes interessadas envolvidas.```<br>
-```Como a criação de valor é ativada por meio de serviços.```<br></border>
+```Como a criação de valor é ativada por meio de serviços.```<br></style>
 
 * O que é um Serviço? (Definição de Serviço)
 Um meio de permitir a co-criação de valor, facilitando os resultados que os clientes desejam alcançar, sem que o cliente tenha que gerenciar custos e riscos específicos.
