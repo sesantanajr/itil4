@@ -6,9 +6,9 @@
 Definição: É um conjunto de recursos organizacionais especializados para habilitar valor para clientes na forma de serviços.
 
 
-```A natureza do valor. <br>
+````A natureza do valor. <br>
 A natureza e o escopo das partes interessadas envolvidas.<br>
-Como a criação de valor é ativada por meio de serviços.<br>```
+Como a criação de valor é ativada por meio de serviços.<br>````
 
 
 
