@@ -90,10 +90,10 @@ Assim como os custos, existem dois tipos de riscos preocupantes para atender con
    - Riscos removidos do consumidor pelo serviço.
    - Riscos adicionados ao consumidor pelo serviço.
 
-* Princípios fundamentais dos relacionamentos de serviço
 
-Ofertas de serviço
+# Princípios fundamentais dos relacionamentos de serviço
 
+* Ofertas de serviço
 Descrição de um ou mais serviços, projetados para atender às
 necessidades de um grupo de consumidores-alvo. Uma oferta de serviço pode incluir mercadorias, acesso a recursos e ações de serviço.
 
