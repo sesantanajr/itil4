@@ -44,10 +44,13 @@ Ao provisionar serviços, uma organização assume o papel do provedor de servi�
 Consumidor de serviço é uma função genérica que é usada para
 simplificar a definição e a descrição da estrutura de relacionamentos de serviço. Essas funções podem ser separadas ou combinadas:
 
-   ***Patrocinador: Uma pessoa que autoriza o orçamento para consumo de serviço.
-   ***Cliente: Uma pessoa que define os requisitos para um serviço e assume a responsabilidade pelos resultados do consumo do
+````
+Patrocinador: Uma pessoa que autoriza o orçamento para consumo de serviço.
+Cliente: Uma pessoa que define os requisitos para um serviço e assume a responsabilidade pelos resultados do consumo do
 serviço.
-   ***Usuário: Uma pessoa que usa os serviços
+Usuário: Uma pessoa que usa os serviços
+````
+
 
 ## Outras partes interessadas
 
