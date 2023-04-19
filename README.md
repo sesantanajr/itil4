@@ -57,12 +57,14 @@ serviço.
 Além das funções de consumidor e provedor, geralmente há muitas outras partes interessadas que são importantes para a criação de
 valor. Exemplos:
 
-***Consumidores de Serviço<br>
-Provedores de Serviço<br>
-Funcionários do provedor de serviços<br>
-Governos e Órgãos Reguladores<br>
-Sociedade<br>
-Acionistas<br>
+```
+Consumidores de Serviço
+Provedores de Serviço
+Funcionários do provedor de serviços
+Governos e Órgãos Reguladores
+Sociedade
+Acionistas
+```
 
 # Valor: Resultados, custos e riscos
 
