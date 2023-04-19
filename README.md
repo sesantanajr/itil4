@@ -47,4 +47,15 @@ assume a responsabilidade pelos resultados do consumo do
 serviço.
    - Usuário: Uma pessoa que usa os serviços
 
+# Outras partes interessadas
 
+Além das funções de consumidor e provedor, geralmente há muitas
+outras partes interessadas que são importantes para a criação de
+valor. Exemplos:
+
+  - Consumidores de Serviço
+  - Provedores de Serviço
+  - Funcionários do provedor de serviços
+  - Governos e Órgãos Reguladores
+  - Sociedade
+  - Acionistas
