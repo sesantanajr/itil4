@@ -4,6 +4,7 @@
 
 * Gerenciamento de Serviços
 Definição: É um conjunto de recursos organizacionais especializados para habilitar valor para clientes na forma de serviços.
+
    ***A natureza do valor.
    ***A natureza e o escopo das partes interessadas envolvidas.
    ***Como a criação de valor é ativada por meio de serviços.
@@ -50,12 +51,12 @@ serviço.
 Além das funções de consumidor e provedor, geralmente há muitas outras partes interessadas que são importantes para a criação de
 valor. Exemplos:
 
-  ***Consumidores de Serviço
-  ***Provedores de Serviço
-  ***Funcionários do provedor de serviços
-  ***Governos e Órgãos Reguladores
-  ***Sociedade
-  ***Acionistas
+***Consumidores de Serviço
+***Provedores de Serviço
+***Funcionários do provedor de serviços
+***Governos e Órgãos Reguladores
+***Sociedade
+***Acionistas
 
 # Valor: Resultados, custos e riscos
 
