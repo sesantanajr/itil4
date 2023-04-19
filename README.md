@@ -11,13 +11,13 @@ A natureza e o escopo das partes interessadas envolvidas.
 Como a criação de valor é ativada por meio de serviços.
 </div>
 
-* O que é um Serviço? (Definição de Serviço)
+### O que é um Serviço? (Definição de Serviço)
 Um meio de permitir a co-criação de valor, facilitando os resultados que os clientes desejam alcançar, sem que o cliente tenha que gerenciar custos e riscos específicos.
 
-* O que é um produto? (Definição de Produto)
+### O que é um produto? (Definição de Produto)
 Uma configuração dos recursos de uma organização projetados para oferecer valor para um consumidor.
 
-* O que é Valor? (Definição de Valor)
+### O que é Valor? (Definição de Valor)
 Valor é a percepção de benifícios, utilidade e importância de algo. 
 Obs.: Valor não esta ligado ao Dinheiro, pode ser dinheiro, mas não exclusivamente. 
 
