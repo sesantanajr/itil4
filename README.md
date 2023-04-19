@@ -5,9 +5,9 @@
 ## Gerenciamento de Serviços
 Definição: É um conjunto de recursos organizacionais especializados para habilitar valor para clientes na forma de serviços.
 
-<style: border 1px solid red``` A natureza do valor.```<br>
+``` A natureza do valor.```<br>
 ```A natureza e o escopo das partes interessadas envolvidas.```<br>
-```Como a criação de valor é ativada por meio de serviços.```<br></style>
+```Como a criação de valor é ativada por meio de serviços.```<br>
 
 * O que é um Serviço? (Definição de Serviço)
 Um meio de permitir a co-criação de valor, facilitando os resultados que os clientes desejam alcançar, sem que o cliente tenha que gerenciar custos e riscos específicos.
@@ -20,7 +20,7 @@ Valor é a percepção de benifícios, utilidade e importância de algo.
 Obs.: Valor não esta ligado ao Dinheiro, pode ser dinheiro, mas não exclusivamente. 
 
 
-# Utilidade e Garantia
+## Utilidade e Garantia
 
 * O que é Utilidade? (Conceito de Utilidade)
 A funcionalidade oferecida por um produto ou serviço para atender a uma necessidade específica. Utilidade pode ser resumida
@@ -36,7 +36,7 @@ responsabilidades, autoridades e relacionamentos para atingir seus objetivos.
 * Provedores de Serviço (Definição)
 Ao provisionar serviços, uma organização assume o papel do provedor de serviços (Prestadores de Serviços). O provedor pode ser "interno" ou "externo" à organização do consumidor ou ambos podem fazer parte da mesma organização.
 
-# Consumidores de Serviço (Definição)
+## Consumidores de Serviço (Definição)
 
 Consumidor de serviço é uma função genérica que é usada para
 simplificar a definição e a descrição da estrutura de relacionamentos de serviço. Essas funções podem ser separadas ou combinadas:
@@ -46,7 +46,7 @@ simplificar a definição e a descrição da estrutura de relacionamentos de ser
 serviço.
    ***Usuário: Uma pessoa que usa os serviços
 
-# Outras partes interessadas
+## Outras partes interessadas
 
 Além das funções de consumidor e provedor, geralmente há muitas outras partes interessadas que são importantes para a criação de
 valor. Exemplos:
@@ -60,7 +60,7 @@ valor. Exemplos:
 
 # Valor: Resultados, custos e riscos
 
-* Resultados
+## Resultados
 
 Atuando como prestadora de serviços, uma organização produz saídas que ajudam seus consumidores a alcançar certos
 resultados.
@@ -69,7 +69,7 @@ resultados.
    ***Resultado: Um resultado para uma parte interessada habilitada por uma ou mais saídas.
 
 
-* Custos
+## Custos
 
 A quantia de dinheiro gasto em uma atividade ou recurso específico.
 
@@ -79,7 +79,7 @@ Do ponto de vista do consumidor de serviços, existem dois tipos de custos envol
   ***Custos adicionados ao consumidor pelo serviço.
 
 
-* Riscos
+## Riscos
 
 Definição: Um possível evento que pode causar danos ou perdas, ou dificultar o alcance dos objetivos.
 
@@ -91,7 +91,7 @@ Assim como os custos, existem dois tipos de riscos preocupantes para atender con
 
 # Princípios fundamentais dos relacionamentos de serviço
 
-* Ofertas de serviço
+## Ofertas de serviço
 
 Descrição de um ou mais serviços, projetados para atender às
 necessidades de um grupo de consumidores-alvo. Uma oferta de serviço pode incluir mercadorias, acesso a recursos e ações de serviço.
