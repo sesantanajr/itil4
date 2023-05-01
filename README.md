@@ -100,6 +100,30 @@ Assim como os custos, existem dois tipos de riscos preocupantes para atender con
    * Riscos adicionados ao consumidor pelo serviço.
 ```
 
+
+# PRINCIPIOS ORIENTADORES
+
+Um princípio orientador é uma recomendação que guia uma organização em todas as circunstâncias, independentemente de mudanças em seus objetivos, estratégias, tipo de trabalho ou
+estrutura de gerenciamento. Um princípio orientador é universal e duradouro.
+
+Os princípios orientadores são universalmente aplicáveis a quase todas as iniciativas e relacionamentos com todos os grupos de partes interessadas.
+
+### Foco no valor: As organizações precisam entregar valor para as partes interessadas.
+
+### Progresso iterativo com feedback: Não tente fazer tudo de
+uma só vez.
+
+### Pense e trabalhe holisticamente: Nenhum serviço, ou elemento
+usado para fornecer um serviço, fica sozinho.
+
+### Comece onde você está: Não comece do zero e construa algo novo.
+
+### Colabore e promova a visibilidade: Trabalhar juntos além das fronteiras produz resultados com maior aceitação.
+
+### Mantenha-o simples e prático: Recursos de todos os tipos, especialmente recursos humanos (RH), devem ser usados para seu melhor efeito.
+
+
+
 # Princípios fundamentais dos relacionamentos de serviço
 
 ## Ofertas de serviço
@@ -111,4 +135,63 @@ Descrição de um ou mais serviços, projetados para atender às necessidades de
    * Acesso a Recursos
    * Ações de Serviço
 ```
+
+
+# PRÁTICAS DO ITIL
+
+## Melhoria Contínua
+
+O objetivo da prática de melhoria contínua é alinhar as práticas e
+serviços da organização com as necessidades de negócios em
+constante mudança, através da identificação e melhorias
+contínuas de serviços, componentes de serviços, práticas ou
+qualquer elemento envolvido no gerenciamento eficiente e eficaz
+de produtos e serviços
+
+Ciclo de Deming (PDCA)
+(Plan, Do, Check, Act)
+
+## Gerenciamento de Segurança
+## Gerenciamento dos Relacionamentos
+## Gerenciamento de Fornecedor
+## Controle de Mudança
+## Gerenciamento de Incidente
+## Gerenciamento de Ativos de TI
+## Gerenciamento de Monitoração e Evento
+## Gerenciamento de Problema
+## Gerenciamento de Liberação
+## Gerenciamento de Configuração de Serviço
+## Central de Serviço
+## Gerenciamento de Nível de Serviço
+## Gerenciamento de Requisição de Serviço
+## Gerenciamento de Implantação
+# PRÁTICAS DO ITIL
+
+## Melhoria Contínua
+
+O objetivo da prática de melhoria contínua é alinhar as práticas e
+serviços da organização com as necessidades de negócios em
+constante mudança, através da identificação e melhorias
+contínuas de serviços, componentes de serviços, práticas ou
+qualquer elemento envolvido no gerenciamento eficiente e eficaz
+de produtos e serviços
+
+Ciclo de Deming (PDCA)
+(Plan, Do, Check, Act)
+
+## Gerenciamento de Segurança
+## Gerenciamento dos Relacionamentos
+## Gerenciamento de Fornecedor
+## Controle de Mudança
+## Gerenciamento de Incidente
+## Gerenciamento de Ativos de TI
+## Gerenciamento de Monitoração e Evento
+## Gerenciamento de Problema
+## Gerenciamento de Liberação
+## Gerenciamento de Configuração de Serviço
+## Central de Serviço
+## Gerenciamento de Nível de Serviço
+## Gerenciamento de Requisição de Serviço
+## Gerenciamento de Implantação
+
 
